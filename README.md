@@ -6,7 +6,7 @@
 
 关于近三年的部分，我也只是浮光掠影,可能有很多纰漏之处，期望大家积极批评指正。其余年份也有待细化和完善。
 
-**所以欢迎大家通过在我的博客的评论区留言或者在GitHub上提交修改后的文档的方式，来和我一起完善这个文档。**
+**所以欢迎大家通过在[我的博客](https://blog.csdn.net/weixin_42378324/article/details/108229549)的评论区留言或者在GitHub上提交修改后的文档的方式，来和我一起完善这个文档。**
 
 
 ![19ab]( https://github.com/dq116/key-points-and-solutions-of-CUMCM-over-the-years/blob/master/19ab.png)
