@@ -9,8 +9,11 @@
 **所以欢迎大家通过在[我的博客](https://blog.csdn.net/weixin_42378324/article/details/108229549)的评论区留言或者在GitHub上提交修改后的文档的方式，来和我一起完善这个文档。**
 
 
-![19ab]( https://github.com/dq116/key-points-and-solutions-of-CUMCM-over-the-years/blob/master/19ab.png)
 
-![19c](https://github.com/dq116/key-points-and-solutions-of-CUMCM-over-the-years/blob/master/19c.png)
+![19ab](https://img-blog.csdnimg.cn/20200826160923821.png#pic_center)
+![19c](https://img-blog.csdnimg.cn/20200826165749822.png#pic_center)
+![other](https://img-blog.csdnimg.cn/20200826164343963.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjM3ODMyNA==,size_16,color_FFFFFF,t_70#pic_center)
 
-![other](https://github.com/dq116/key-points-and-solutions-of-CUMCM-over-the-years/blob/master/other.png)
+
+
+
